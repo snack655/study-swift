@@ -109,7 +109,7 @@ iOSInjectionProject/
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
-contents.xctimeline
+contents.xcplayground
 
 .DS_Store
 
